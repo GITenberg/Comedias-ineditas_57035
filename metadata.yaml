@@ -1,0 +1,29 @@
+_repo: Comedias-ineditas_57035
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Vega, Lope de
+    aliases:
+    - Carpio, Lope Felix de Vega
+    - Burguillos, Tomé de
+    - Burguillos, Tome de
+    - Carpio, Lope Félix de Vega
+    - De Vega, Lope
+    birthdate: 1562
+    deathdate: 1635
+    gutenberg_agent_id: '25752'
+    url: http://www.gutenberg.org/2009/agents/25752
+    wikipedia: http://es.wikipedia.org/wiki/Lope_de_Vega
+description: ''
+gutenberg_issued: '2018-04-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57035'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Comedias inéditas
+url: http://www.gutenberg.org/ebooks/57035
